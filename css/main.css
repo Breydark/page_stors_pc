@@ -1,0 +1,48 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+
+body {
+
+    font-family: 'Titillium Web', sans-serif;
+}
+
+header {
+    margin-top: 90px;
+}
+
+
+.header-content-left img{
+    width: 100%;
+
+}
+
+.testimonio {
+    background: #f1f1f1;
+    padding: 15px;
+    text-align: justify;
+}
+
+.info-left img{
+    width: 100%;
+
+}
+
+footer {
+    background: #f1f1f1;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.iconos-redes {
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
